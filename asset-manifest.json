@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Wadzet/nextjs-course-react-page/static/css/main.678a18ad.css",
-    "main.js": "/Wadzet/nextjs-course-react-page/static/js/main.7b26a2b9.js",
-    "index.html": "/Wadzet/nextjs-course-react-page/index.html",
-    "static/media/bg-left.svg": "/Wadzet/nextjs-course-react-page/static/media/bg-left.0ed1debdb05aee57e642783500eaeec9.svg",
-    "static/media/bg-right.svg": "/Wadzet/nextjs-course-react-page/static/media/bg-right.4980c1fd1180f71d57826caf727e057c.svg",
-    "main.678a18ad.css.map": "/Wadzet/nextjs-course-react-page/static/css/main.678a18ad.css.map",
-    "main.7b26a2b9.js.map": "/Wadzet/nextjs-course-react-page/static/js/main.7b26a2b9.js.map"
+    "main.css": "/nextjs-course-react-page/static/css/main.678a18ad.css",
+    "main.js": "/nextjs-course-react-page/static/js/main.4e105cb1.js",
+    "index.html": "/nextjs-course-react-page/index.html",
+    "static/media/bg-left.svg": "/nextjs-course-react-page/static/media/bg-left.0ed1debdb05aee57e642783500eaeec9.svg",
+    "static/media/bg-right.svg": "/nextjs-course-react-page/static/media/bg-right.4980c1fd1180f71d57826caf727e057c.svg",
+    "main.678a18ad.css.map": "/nextjs-course-react-page/static/css/main.678a18ad.css.map",
+    "main.4e105cb1.js.map": "/nextjs-course-react-page/static/js/main.4e105cb1.js.map"
   },
   "entrypoints": [
     "static/css/main.678a18ad.css",
-    "static/js/main.7b26a2b9.js"
+    "static/js/main.4e105cb1.js"
   ]
 }
