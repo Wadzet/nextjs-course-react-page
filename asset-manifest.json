@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wadzet/nextjs-course-react-page/static/css/main.678a18ad.css",
+    "main.js": "/Wadzet/nextjs-course-react-page/static/js/main.a62a3849.js",
+    "index.html": "/Wadzet/nextjs-course-react-page/index.html",
+    "static/media/bg-left.svg": "/Wadzet/nextjs-course-react-page/static/media/bg-left.0ed1debdb05aee57e642783500eaeec9.svg",
+    "static/media/bg-right.svg": "/Wadzet/nextjs-course-react-page/static/media/bg-right.4980c1fd1180f71d57826caf727e057c.svg",
+    "main.678a18ad.css.map": "/Wadzet/nextjs-course-react-page/static/css/main.678a18ad.css.map",
+    "main.a62a3849.js.map": "/Wadzet/nextjs-course-react-page/static/js/main.a62a3849.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.678a18ad.css",
+    "static/js/main.a62a3849.js"
+  ]
+}
